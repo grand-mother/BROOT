@@ -1,3 +1,5 @@
+Clone repository from https://github.com/luckyjim/BROOT
+
 # BROOT presentation
 
 BROOT is a viewer / browser for [ROOT files](https://root.cern/manual/io), format defined and used by CERN collaboration.
@@ -114,8 +116,8 @@ BROOT.py
 
 ```
 python -m pip uninstall BROOT
-python -m pip install git+https://github.com/luckyjim/BROOT.git 
- ```
+python -m pip install https://github.com/grand-mother/BROOT.git
+```
  
 # Problems
 

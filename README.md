@@ -9,7 +9,7 @@ BROOT doesn't use the ROOT library but the IO-specific library [uproot](https://
 
 # BROOT GUI
 
-## Table for each TTree
+## Table for each TTreeappJar
 
 ![BROOT_table](docs/BROOT3.png)
 
@@ -133,7 +133,3 @@ python -m pip install --upgrade uproot
 * [uproot_browser](https://github.com/jrueb/uproot_browser) with GTK gui
 * [jsroot](https://github.com/root-project/jsroot) in HTML using [Visual Studio Code](https://root.cern/blog/vscode-extension-announcement/)
 
-
-# Sponsor
-
-![image](https://github.com/user-attachments/assets/b82b15c1-861a-4738-a494-04872939f722)

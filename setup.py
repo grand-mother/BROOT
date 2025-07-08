@@ -14,7 +14,7 @@ setup(
         "Topic :: Scientific/Engineering :: Astronomy",
         "Topic :: Scientific/Engineering :: Physics",
     ],
-    url="https://github.com/luckyjim/BROOT",
+    url="https://github.com/grand-mother/BROOT",
     package_dir={"broot": "src/broot", "ndarray_view":"src/ndarray_view"},
     scripts=["script/BROOT.py"],
     license='MIT',

@@ -102,7 +102,7 @@ pip install --upgrade setuptools pip
 then BROOT installs very simply with pip install
 
 ```
-python -m pip install git+https://github.com/luckyjim/BROOT.git 
+python -m pip install git+https://github.com/grand-mother/BROOT.git 
 ```
 
 run BROOT in a terminal with this command
